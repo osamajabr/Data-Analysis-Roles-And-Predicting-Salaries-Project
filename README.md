@@ -61,7 +61,7 @@ Here's the breakdown of the top data analyst jobs in 2023:
 - **Job Title Variety：** There's a high diversity
 in job titles, from Data Analyst to Director of Analytics, reflecting varied roles and specializations within data analytics.
 
-![ALT text](/Users/osamajabr/Desktop/SQL Course Materials/New Course PostgreSQL/assets/Screenshot 2024-09-21 at 10.50.21 PM.png)
+![ALT text](https://github.com/osamajabr/JobsProject/blob/917c43faed8f943f7bd064f6c3ea5bab6a7d1034/assets/Screenshot%202024-09-21%20at%2010.50.21%E2%80%AFPM.png)
 
 *Bar graph visualizing the salary for the top 10 salaries for data analysts*
 
@@ -103,7 +103,7 @@ Here's the breakdown of the most demanded skills for the top 10 highest paying d
 • Tableau is also highly sought after, with a bold count of 6. Other skills like R, Snowflake, Pandas, and Excel show varying degrees of demand.
 
 
-![ALT text](/Users/osamajabr/Desktop/SQL Course Materials/New Course PostgreSQL/assets/Screenshot 2024-09-21 at 10.46.05 PM.png)
+![ALT text](jetbrains://pycharm/navigate/reference?project=New Course PostgreSQL&path=assets/Screenshot 2024-09-21 at 10.46.05 PM.png)
 
 *Bar graph visualizing the count of skills for the top 10 paying jobs for data analysts*
 
