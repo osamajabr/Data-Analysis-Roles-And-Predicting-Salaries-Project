@@ -1,5 +1,5 @@
 /*
- Question: what are the most in-demand skills for remote data analysts?
+ Question: What are the most in-demand skills for remote data analysts roles?
  */
 
 select
