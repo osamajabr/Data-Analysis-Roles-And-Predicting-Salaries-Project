@@ -1,5 +1,5 @@
 /*
-Question: What are the top skills based on salary for data analyst remote jobs?
+Question: What are the top skills based on salary for remote data analyst jobs?
 */
 
 
