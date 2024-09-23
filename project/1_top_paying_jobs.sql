@@ -1,6 +1,6 @@
 /*
 Question: What are the top-paying data analyst jobs that are available remotely? specifying the name
-of the companies that are offering these Vacancies.
+of the companies that are offering these vacancies.
 */
 
 select
